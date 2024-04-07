@@ -1,4 +1,4 @@
-from .constants import CENTIMETER_PER_INCH, METER_PER_INCH
+from .constants import CENTIMETER_PER_INCH, METER_PER_INCH, INCH_PER_FEET, FOOT_PER_YARD
 
 from .converters import centimeters_to_meters, centimeters_to_inches, centimeters_to_feet, centimeters_to_yards
 from .converters import meters_to_yards, meters_to_centimeters, meters_to_feet, meters_to_inches
